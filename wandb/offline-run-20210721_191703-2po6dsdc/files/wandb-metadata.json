@@ -1,0 +1,30 @@
+{
+    "os": "Linux-4.19.0-17-amd64-x86_64-with-debian-10.10",
+    "python": "3.7.3",
+    "heartbeatAt": "2021-07-21T22:17:04.528942",
+    "startedAt": "2021-07-21T22:17:03.013658",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1060 3GB",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "--img",
+        "412",
+        "--batch",
+        "16",
+        "--epochs",
+        "3",
+        "--data",
+        "data.yaml",
+        "--weights",
+        "yolov5s.pt",
+        "--cache"
+    ],
+    "state": "running",
+    "program": "./yolov5/train.py",
+    "codePath": "yolov5/train.py",
+    "host": "kct",
+    "username": "vindn",
+    "executable": "/usr/bin/python3"
+}

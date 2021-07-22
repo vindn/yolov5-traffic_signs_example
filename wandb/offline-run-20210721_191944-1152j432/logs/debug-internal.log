@@ -1,0 +1,74 @@
+2021-07-21 19:19:44,837 INFO    MainThread:14027 [internal.py:wandb_internal():91] W&B internal server running at pid: 14027, started at: 2021-07-21 19:19:44.837742
+2021-07-21 19:19:44,840 DEBUG   HandlerThread:14027 [handler.py:handle_request():124] handle_request: run_start
+2021-07-21 19:19:44,841 INFO    WriterThread:14027 [datastore.py:open_for_write():80] open: /home/vindn/Insync/dalto@cos.ufrj.br/Google Drive/disciplinas/CPS862 - Top. Esp. em Arq. de Prop. Espec./trabalho2/Traffic Signs - Yolov5/wandb/offline-run-20210721_191944-1152j432/run-1152j432.wandb
+2021-07-21 19:19:45,830 DEBUG   HandlerThread:14027 [meta.py:__init__():39] meta init
+2021-07-21 19:19:45,830 DEBUG   HandlerThread:14027 [meta.py:__init__():53] meta init done
+2021-07-21 19:19:45,830 DEBUG   HandlerThread:14027 [meta.py:probe():210] probe
+2021-07-21 19:19:45,837 DEBUG   HandlerThread:14027 [git.py:repo():33] git repository is invalid
+2021-07-21 19:19:45,837 DEBUG   HandlerThread:14027 [meta.py:_save_pip():57] save pip
+2021-07-21 19:19:45,837 DEBUG   HandlerThread:14027 [meta.py:_save_pip():71] save pip done
+2021-07-21 19:19:45,837 DEBUG   HandlerThread:14027 [meta.py:probe():252] probe done
+2021-07-21 19:19:50,916 DEBUG   HandlerThread:14027 [handler.py:handle_request():124] handle_request: poll_exit
+2021-07-21 19:19:50,916 DEBUG   SenderThread:14027 [sender.py:send():179] send: exit
+2021-07-21 19:19:50,916 INFO    SenderThread:14027 [sender.py:send_exit():287] handling exit code: 1
+2021-07-21 19:19:50,917 INFO    SenderThread:14027 [sender.py:send_exit():295] send defer
+2021-07-21 19:19:50,917 DEBUG   SenderThread:14027 [sender.py:send_request():193] send_request: poll_exit
+2021-07-21 19:19:50,917 DEBUG   HandlerThread:14027 [handler.py:handle_request():124] handle_request: defer
+2021-07-21 19:19:50,918 INFO    HandlerThread:14027 [handler.py:handle_request_defer():141] handle defer: 0
+2021-07-21 19:19:50,918 DEBUG   SenderThread:14027 [sender.py:send_request():193] send_request: defer
+2021-07-21 19:19:50,918 INFO    SenderThread:14027 [sender.py:send_request_defer():304] handle sender defer: 0
+2021-07-21 19:19:50,918 INFO    SenderThread:14027 [sender.py:transition_state():308] send defer: 1
+2021-07-21 19:19:50,918 DEBUG   HandlerThread:14027 [handler.py:handle_request():124] handle_request: defer
+2021-07-21 19:19:50,919 INFO    HandlerThread:14027 [handler.py:handle_request_defer():141] handle defer: 1
+2021-07-21 19:19:51,006 DEBUG   SenderThread:14027 [sender.py:send_request():193] send_request: defer
+2021-07-21 19:19:51,006 INFO    SenderThread:14027 [sender.py:send_request_defer():304] handle sender defer: 1
+2021-07-21 19:19:51,006 INFO    SenderThread:14027 [sender.py:transition_state():308] send defer: 2
+2021-07-21 19:19:51,007 DEBUG   HandlerThread:14027 [handler.py:handle_request():124] handle_request: defer
+2021-07-21 19:19:51,007 INFO    HandlerThread:14027 [handler.py:handle_request_defer():141] handle defer: 2
+2021-07-21 19:19:51,007 DEBUG   SenderThread:14027 [sender.py:send_request():193] send_request: defer
+2021-07-21 19:19:51,007 INFO    SenderThread:14027 [sender.py:send_request_defer():304] handle sender defer: 2
+2021-07-21 19:19:51,007 INFO    SenderThread:14027 [sender.py:transition_state():308] send defer: 3
+2021-07-21 19:19:51,007 DEBUG   HandlerThread:14027 [handler.py:handle_request():124] handle_request: defer
+2021-07-21 19:19:51,008 INFO    HandlerThread:14027 [handler.py:handle_request_defer():141] handle defer: 3
+2021-07-21 19:19:51,008 DEBUG   SenderThread:14027 [sender.py:send_request():193] send_request: defer
+2021-07-21 19:19:51,008 INFO    SenderThread:14027 [sender.py:send_request_defer():304] handle sender defer: 3
+2021-07-21 19:19:51,008 INFO    SenderThread:14027 [sender.py:transition_state():308] send defer: 4
+2021-07-21 19:19:51,008 DEBUG   HandlerThread:14027 [handler.py:handle_request():124] handle_request: defer
+2021-07-21 19:19:51,009 INFO    HandlerThread:14027 [handler.py:handle_request_defer():141] handle defer: 4
+2021-07-21 19:19:51,009 DEBUG   SenderThread:14027 [sender.py:send_request():193] send_request: defer
+2021-07-21 19:19:51,009 INFO    SenderThread:14027 [sender.py:send_request_defer():304] handle sender defer: 4
+2021-07-21 19:19:51,009 INFO    SenderThread:14027 [sender.py:transition_state():308] send defer: 5
+2021-07-21 19:19:51,009 DEBUG   HandlerThread:14027 [handler.py:handle_request():124] handle_request: defer
+2021-07-21 19:19:51,009 INFO    HandlerThread:14027 [handler.py:handle_request_defer():141] handle defer: 5
+2021-07-21 19:19:51,010 DEBUG   SenderThread:14027 [sender.py:send_request():193] send_request: defer
+2021-07-21 19:19:51,010 INFO    SenderThread:14027 [sender.py:send_request_defer():304] handle sender defer: 5
+2021-07-21 19:19:51,010 INFO    SenderThread:14027 [sender.py:transition_state():308] send defer: 6
+2021-07-21 19:19:51,010 DEBUG   HandlerThread:14027 [handler.py:handle_request():124] handle_request: defer
+2021-07-21 19:19:51,010 INFO    HandlerThread:14027 [handler.py:handle_request_defer():141] handle defer: 6
+2021-07-21 19:19:51,010 DEBUG   SenderThread:14027 [sender.py:send_request():193] send_request: defer
+2021-07-21 19:19:51,011 INFO    SenderThread:14027 [sender.py:send_request_defer():304] handle sender defer: 6
+2021-07-21 19:19:51,011 INFO    SenderThread:14027 [sender.py:transition_state():308] send defer: 7
+2021-07-21 19:19:51,011 DEBUG   HandlerThread:14027 [handler.py:handle_request():124] handle_request: defer
+2021-07-21 19:19:51,011 INFO    HandlerThread:14027 [handler.py:handle_request_defer():141] handle defer: 7
+2021-07-21 19:19:51,011 DEBUG   SenderThread:14027 [sender.py:send_request():193] send_request: defer
+2021-07-21 19:19:51,011 INFO    SenderThread:14027 [sender.py:send_request_defer():304] handle sender defer: 7
+2021-07-21 19:19:51,011 INFO    SenderThread:14027 [sender.py:transition_state():308] send defer: 8
+2021-07-21 19:19:51,012 DEBUG   HandlerThread:14027 [handler.py:handle_request():124] handle_request: defer
+2021-07-21 19:19:51,012 INFO    HandlerThread:14027 [handler.py:handle_request_defer():141] handle defer: 8
+2021-07-21 19:19:51,012 DEBUG   SenderThread:14027 [sender.py:send_request():193] send_request: defer
+2021-07-21 19:19:51,012 INFO    SenderThread:14027 [sender.py:send_request_defer():304] handle sender defer: 8
+2021-07-21 19:19:51,012 INFO    SenderThread:14027 [sender.py:transition_state():308] send defer: 9
+2021-07-21 19:19:51,013 DEBUG   SenderThread:14027 [sender.py:send():179] send: final
+2021-07-21 19:19:51,013 DEBUG   HandlerThread:14027 [handler.py:handle_request():124] handle_request: defer
+2021-07-21 19:19:51,013 INFO    HandlerThread:14027 [handler.py:handle_request_defer():141] handle defer: 9
+2021-07-21 19:19:51,014 DEBUG   SenderThread:14027 [sender.py:send_request():193] send_request: defer
+2021-07-21 19:19:51,014 INFO    SenderThread:14027 [sender.py:send_request_defer():304] handle sender defer: 9
+2021-07-21 19:19:51,018 DEBUG   HandlerThread:14027 [handler.py:handle_request():124] handle_request: poll_exit
+2021-07-21 19:19:51,019 DEBUG   SenderThread:14027 [sender.py:send_request():193] send_request: poll_exit
+2021-07-21 19:19:51,020 DEBUG   HandlerThread:14027 [handler.py:handle_request():124] handle_request: get_summary
+2021-07-21 19:19:51,021 DEBUG   HandlerThread:14027 [handler.py:handle_request():124] handle_request: sampled_history
+2021-07-21 19:19:51,021 DEBUG   HandlerThread:14027 [handler.py:handle_request():124] handle_request: shutdown
+2021-07-21 19:19:51,022 INFO    HandlerThread:14027 [handler.py:finish():638] shutting down handler
+2021-07-21 19:19:52,013 INFO    WriterThread:14027 [datastore.py:close():288] close: /home/vindn/Insync/dalto@cos.ufrj.br/Google Drive/disciplinas/CPS862 - Top. Esp. em Arq. de Prop. Espec./trabalho2/Traffic Signs - Yolov5/wandb/offline-run-20210721_191944-1152j432/run-1152j432.wandb
+2021-07-21 19:19:52,019 INFO    SenderThread:14027 [sender.py:finish():945] shutting down sender
+2021-07-21 19:19:52,020 INFO    MainThread:14027 [internal.py:handle_exit():78] Internal process exited
